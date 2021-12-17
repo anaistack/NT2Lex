@@ -1,7 +1,7 @@
 NT2Lex
 ======
 
-.. image:: https://img.shields.io/badge/version-0.0.0-blue
+.. image:: https://img.shields.io/badge/version-1.0.0-blue
    :target: https://github.com/anaistack/NT2Lex/tree/main
    :alt: package version
 
